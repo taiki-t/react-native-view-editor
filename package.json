@@ -15,5 +15,8 @@
     "image"
   ],
   "author": "DoubleQliq",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
